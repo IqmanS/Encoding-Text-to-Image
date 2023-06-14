@@ -11,3 +11,4 @@ passages, and more recently with desktop publishing software like Aldus <br>
 PageMaker including versions of Lorem Ipsum.<br>
 
 ### Sample Encoded Image:
+<img src="https://raw.githubusercontent.com/IqmanS/Encoding-Text-to-Image/main/sample_image/sample_encoded_image.png?token=GHSAT0AAAAAACDSLLUBEJ26XOWKIK2ACYCIZEJOSEA" width=400>
